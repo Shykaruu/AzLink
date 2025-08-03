@@ -6,7 +6,8 @@ public enum PlatformType {
     BUNGEE("BungeeCord"),
     SPONGE("Sponge"),
     VELOCITY("Velocity"),
-    NUKKIT("Nukkit");
+    NUKKIT("Nukkit"),
+    FABRIC("Fabric");
 
     private final String name;
 
